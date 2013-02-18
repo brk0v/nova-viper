@@ -1,0 +1,23 @@
+nova-viper (0.0.2-0ubuntu1) precise; urgency=low
+
+  * Update REST interface
+
+ -- Viacheslav Biriukov <v.v.biriukov@gmail.com>  Mon, 18 Feb 2013 19:24:53 +0200
+
+nova-viper (0.0.1-1ubuntu2) precise; urgency=low
+
+  * Update logging 
+
+ -- Viacheslav Biriukov <v.v.biriukov@gmail.com>  Mon, 18 Feb 2013 18:23:29 +0200
+
+nova-viper (0.0.1-1ubuntu1) precise; urgency=low
+
+  * Update naming 
+
+ -- Viacheslav Biriukov <v.v.biriukov@gmail.com>  Mon, 18 Feb 2013 18:05:19 +0200
+
+nova-viper (0.0.1-1) stable; urgency=low
+
+  * Init
+
+ -- Viacheslav Biriukov <v.v.biriukov@gmail.com>  Fri, 15 Feb 2013 16:58:00 +0200

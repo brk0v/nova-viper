@@ -1,0 +1,13 @@
+Source: nova-viper
+Maintainer: Viacheslav Biriukov <v.v.biriukov@gmail.com>
+Section: python
+Priority: optional
+Standards-Version: 0.0.1
+Build-Depends: debhelper (>= 7.3), python-support (>= 1.0.3), python, python-setuptools, python-nova 
+XS-Python-Version: >= 2.6
+
+Package: nova-viper
+Architecture: all
+Depends: ${python:Depends}, ${misc:Depends}, python-setuptools, python-nova
+XB-Python-Version: ${python:Versions}
+Description: Nova VIPer
